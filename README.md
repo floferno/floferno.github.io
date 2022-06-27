@@ -1,2 +1,2 @@
 # floferno.github.io
-For Hacktiv8 Final Project
+For Hacktiv8 phase 0 Final Project
